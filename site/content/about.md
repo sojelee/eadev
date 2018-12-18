@@ -6,6 +6,6 @@ draft: false
 
 # About Hugo
 
-## A Hugo boilerplate for creating truly epic websites
+## Hugo boilerplate for creating truly epic websites
 
 ## Enjoy!! 😸
